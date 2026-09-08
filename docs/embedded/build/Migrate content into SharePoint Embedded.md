@@ -8,7 +8,7 @@ ms.localizationpriority: high
 ai-usage: ai-assisted
 ---
 
-# Migrate content with the migration API
+# Migrate content with the SharePoint Embedded migration API
 
 **Applies to:** SharePoint Embedded via Microsoft Graph v1.0
 
